@@ -1,0 +1,18 @@
+{
+  "main.css": "./static/css/main.b7199214.chunk.css",
+  "main.js": "./static/js/main.b674c955.chunk.js",
+  "main.js.map": "./static/js/main.b674c955.chunk.js.map",
+  "static/js/1.dc2c6eca.chunk.js": "./static/js/1.dc2c6eca.chunk.js",
+  "static/js/1.dc2c6eca.chunk.js.map": "./static/js/1.dc2c6eca.chunk.js.map",
+  "static/js/2.397f5d57.chunk.js": "./static/js/2.397f5d57.chunk.js",
+  "static/js/2.397f5d57.chunk.js.map": "./static/js/2.397f5d57.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.3b23b0e6.js",
+  "runtime~main.js.map": "./static/js/runtime~main.3b23b0e6.js.map",
+  "static/media/airbnblogo.png": "./static/media/airbnblogo.fe79338a.png",
+  "static/media/maldives.jpg": "./static/media/maldives.90e811e4.jpg",
+  "static/media/background.jpg": "./static/media/background.8e98e259.jpg",
+  "static/css/main.b7199214.chunk.css.map": "./static/css/main.b7199214.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.8198b70ee522a131f8666a357694781e.js": "./precache-manifest.8198b70ee522a131f8666a357694781e.js",
+  "service-worker.js": "./service-worker.js"
+}
